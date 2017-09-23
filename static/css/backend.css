@@ -1,0 +1,17 @@
+.w300{
+	width:300px;
+}
+.margin100{
+	margin-top:80px;
+}
+.minheight{
+	min-height: 500px;
+}
+
+.left{
+	float : left;
+}
+.center{
+	margin:0px auto;
+	text-align: center;
+}
